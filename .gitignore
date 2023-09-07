@@ -17,3 +17,6 @@ fp-info-cache
 *.ses
 *.xml
 *.csv
+**/production
+*.lck
+~*
