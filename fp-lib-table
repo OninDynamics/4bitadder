@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "_4bitadder")(type "KiCad")(uri "${KIPRJMOD}/_4bitadder.pretty")(options "")(descr ""))
+)
