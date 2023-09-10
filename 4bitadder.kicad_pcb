@@ -3025,7 +3025,7 @@
   (gr_text "PCB Printed by JLCPCB" (at 41 40) (layer "B.SilkS") (tstamp 8f36f615-9e8d-4810-91cb-a7745f1103a1)
     (effects (font (size 1 1) (thickness 0.15)) (justify right bottom mirror))
   )
-  (gr_text "{dblquote}4-Bit Adder{dblquote}\n\nDesign: Onin D.\n\nParts:\nAraneta, Sean\nDela Cruz, Amiel\nMaulad, Al-Khayl\n\nSpecial Thanks:\nDimaculangan, Sally\n\nRSHS-IX" (at 41 39) (layer "F.SilkS") (tstamp 12fb1514-d544-4ea2-a76a-12939732cbbc)
+  (gr_text "{dblquote}4-Bit Adder{dblquote}\n\nDesign: Onin D.\n\nComponents:\nAraneta, Sean\nDela Cruz, Amiel\nMaulad, Al-Khayl\n\nSpecial Thanks:\nDimaculangan, Sally\n\nRSHS-IX" (at 41 39) (layer "F.SilkS") (tstamp 12fb1514-d544-4ea2-a76a-12939732cbbc)
     (effects (font (size 1.2 1.2) (thickness 0.15)) (justify left top))
   )
   (gr_text "6V" (at 86 46) (layer "F.SilkS") (tstamp 216fadb4-3d4d-4f05-84bd-d2c02a47bf4d)
